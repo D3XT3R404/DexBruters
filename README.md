@@ -31,7 +31,7 @@ pip install -r requirements.txt --break-system-packages
 2. Jalankan tool-nya
 
 
-python DexBrute.py
+python DexBrut.py
 
 
 3. Masukkan:
