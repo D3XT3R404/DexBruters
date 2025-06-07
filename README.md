@@ -1,7 +1,7 @@
 # DexBruters
 # ZIP Password BruteForcer
 
-Sebuah tool sederhana berbasis Python untuk melakukan brute force terhadap file ZIP yang dilindungi password, termasuk yang menggunakan enkripsi AES.
+Sebuah tool sederhana dan simpel berbasis Python untuk melakukan brute force terhadap file ZIP yang dilindungi password(Terkunci), termasuk yang menggunakan enkripsi AES.
 
 ## ✨ Fitur Utama
 
@@ -9,6 +9,7 @@ Sebuah tool sederhana berbasis Python untuk melakukan brute force terhadap file 
 * 📜 Output verbose: setiap password yang dicoba akan ditampilkan
 * 📊 Menampilkan jumlah total password dan hasil akhir yang jelas
 * ⚙️ Sangat mudah dijalankan tanpa konfigurasi ribet
+* 🔢 Wordlist Sudah tersedia berbagai angka, atau kalian juga bisa membuat sendiri
 
 ---
 
