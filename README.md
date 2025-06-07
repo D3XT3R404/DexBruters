@@ -32,7 +32,7 @@ pip install -r requirements.txt --break-system-packages
 2. Jalankan tool-nya
 
 
-python zip_brute_simple.py
+python DexBrute.py
 
 
 3. Masukkan:
@@ -43,8 +43,8 @@ python zip_brute_simple.py
 Contoh:
 
 
-ZIP File Path: /home/kamu/secure.zip
-Wordlist Path : /home/kamu/wordlists/passwords.txt
+ZIP File Path: /home/nama/secure.zip
+Wordlist Path : /home/nama/wordlists/passwords.txt
 
 atau jika kamu berada di satu folder yang sama juga bisa
 
