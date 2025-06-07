@@ -1,3 +1,4 @@
 pyzipper
-tqdm
+rarfile
+py7zr
 colorama
