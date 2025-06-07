@@ -6,7 +6,6 @@ Sebuah tool sederhana berbasis Python untuk melakukan brute force terhadap file 
 ## ✨ Fitur Utama
 
 * ✅ Mendukung ZIP dengan enkripsi AES (via `pyzipper`)
-* 🎨 CLI dengan banner dan warna stylish
 * 📜 Output verbose: setiap password yang dicoba akan ditampilkan
 * 📊 Menampilkan jumlah total password dan hasil akhir yang jelas
 * ⚙️ Sangat mudah dijalankan tanpa konfigurasi ribet
