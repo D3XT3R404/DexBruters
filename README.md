@@ -12,6 +12,7 @@ Sebuah tool sederhana dan simpel berbasis Python untuk melakukan brute force ter
 * 📜 Output verbose: setiap password yang dicoba akan ditampilkan
 * 📊 Menampilkan jumlah total password dan hasil akhir yang jelas
 * ⚙️ Sangat mudah dijalankan tanpa konfigurasi ribet dan simpel
+* 🗂️ Auto Extractions(file setelah di bruteforce akan langsung otomatis di ekstrak)
 
 
 ---
